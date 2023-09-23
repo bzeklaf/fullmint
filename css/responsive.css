@@ -1,0 +1,590 @@
+/* =================================================
+                     Mobile Devices 
+==================================================== */
+@media (min-width:300px) and (max-width:767px){
+    p{
+        font-size: 12px !important;
+        margin-bottom: 20px;
+    }
+    .gap_55{
+        gap: 0px;
+    }
+    .m_mb_50{
+        margin-bottom: 45px !important;
+    }
+    nav ul{
+        background: rgba(0, 0, 0, 0);
+        padding: 30px 0;
+        text-align: center;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        position: fixed;
+        width: 100%;
+        left: 0;
+        top: 70px;
+    }
+    nav ul li a{
+        font-size: 16px;
+        font-weight: 400;
+        font-family: 'Titan One', cursive;
+        color: #CBCBCB !important;
+        transition: .4s all ease-in-out;
+        -webkit-transition: .4s all ease-in-out;
+        -moz-transition: .4s all ease-in-out;
+        -ms-transition: .4s all ease-in-out;
+        -o-transition: .4s all ease-in-out;
+        padding-bottom: 30px !important;
+        padding-left: 0px !important;
+    }
+    .navbar-brand img {
+        width: 60px !important;
+    }
+    .navbar-toggler img {
+        width: 40px !important;
+    }
+    .title img{
+        width: 100%;
+    }
+    .mobileBanner{
+        display: block;
+        width: 90% !important;
+        margin: 0 auto;
+        
+    }
+    .tabletBanner{
+        display: none;
+    }
+
+
+    #top{
+        margin-top: 100px;
+    }
+
+
+    #banner{
+        background: #000000;
+        margin-top: 80px;
+    }  
+    .banner_img .cOne{
+        bottom: -36px;
+        left: 9%;
+        width: 155px !important;    
+    }
+    .banner_img .cTwo{
+        top: 89px !important;
+        right: 3%;
+        width: 61px !important;
+    }
+    .banner_img .cThree{
+        top: -87px;
+        left: 10%;
+        width: 120px !important;
+    }
+    .banner_img .cThree .charectar {
+        width: 100px !important;
+    }
+    .banner_img .cFour{
+        top: -89px;
+        left: 67%;
+        width: 70px !important;   
+    }
+    .banner_img .cOne .smoke_gif{
+        top: -22px !important;
+        left: 64%;
+        width: 50px !important;
+        display: none;
+
+    }
+    .banner_img .cTwo .smoke_gif{
+        top: 13px;
+        right: -31px; 
+        width: 50px !important;
+        display: none;
+
+    }
+    .banner_img .cThree .smoke_gif{
+        top: -10px;
+        left: 40px; 
+        width: 50px !important; 
+        display: none;
+    }
+    .banner_img .cFour .smoke_gif{
+        display: none;
+        top: -8px;
+        left: 70%;
+        width: 50px !important;
+    }
+    #collection .title{
+        margin-bottom: 25px;
+    }
+    #grew .grew_content{
+        margin-left: -10px;
+    }
+    footer form{
+        text-align: center !important;
+        margin: 0 auto;
+    }
+    footer form lable{
+        padding-bottom: 10px !important;
+    }
+    footer form input,footer form button{
+        margin: 0 auto;
+    }
+    footer .footer_menu{
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    #random{
+        padding: 110px 0 0 0;
+    }
+    #story .title{
+        padding-bottom: 30px;
+    }
+    #random .title{
+        padding-bottom: 30px;
+    }
+    #faq .title{
+        padding: 50px 0!important;
+    }
+    #mission .mission_content ul{
+        padding-bottom: 20px !important;
+    }
+    #mission .mission_content p{
+        font-size: 12px !important;
+        margin-bottom: 20px !important;
+    }
+    #mission .mission_content ul li{
+        padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
+        list-style: inside disc;
+        font-size: 12px !important;
+    }
+    .mission_img img{
+        width: 100% !important;
+    }
+    .mission_img{
+        width: 100% !important;
+    }
+    #hand-drawn {
+        padding-top: 25px;
+        margin-bottom: -130px;
+    }
+    #hand-drawn .title p{
+        padding: 50px 0;
+    }
+    .m_vibe_title{
+        display: block;
+    }
+    .t_vibe_title{
+        display: none;
+    }
+    .title .col-9 .vibe{
+        margin: 0 auto;
+        padding-left: 0;
+        margin-top: 10px; 
+        width: 200px;
+    }
+    #journey {
+        padding: 110px 0 0 0;
+        margin-bottom: -80px;
+    }
+    #journey .title{
+        padding-bottom: 20px;
+    }
+    #collection .title {
+        padding-left: 0%;
+    }
+    #faq .float-start{ 
+        float: right !important;
+    }
+    footer .footer_menu ul li a{
+        font-size: 13px;
+    }
+
+    #collection p{
+        margin-bottom: 20px;
+    }
+    #vibe {
+        padding-top: 94px;
+        margin-bottom: -90px;
+    }
+    #mission .title {
+        padding-bottom: 21px !important;
+    }
+    #grew {
+        padding-top: 120px;
+        margin-bottom: -110px;
+    }
+    #grew .title{
+        padding-bottom: 30px;
+    }
+    #faq h4 {
+        padding-top: 0 !important;
+    }
+    #faq .faq_content ul li{
+        font-size: 12px;
+    }
+    .mble_title{
+        width: 70%;
+        margin: 0 auto;
+    }
+    .w_70{
+        width: 65% !important;
+        margin-left: 60px !important;
+    }
+    .w_80{
+        width: 85% !important;
+    }
+    .m_left_auto{
+        margin: 0 auto !important;
+    }
+    #mission {
+        padding-top: 100px;
+        margin-bottom: -100px;
+    }
+    #why_tf{
+        padding-top: 120px;
+        margin-bottom: -70px;
+    }
+    #collection {
+        padding-top: 90px;
+    }
+    .mission_w{
+        width: 106%;
+        margin-left: -30px;
+    }
+    .w_60_h{
+        width: 70px !important;
+        margin-left: -70px !important;
+    }
+   
+}
+/* =================================================
+     (min-width:768px) and (max-width:868px)  
+==================================================== */
+
+@media (min-width:768px) and (max-width:991px){
+    body{
+        overflow-x: hidden;
+    }
+    p{
+        font-size: 14px !important;
+        margin-bottom: 16px !important;
+    }
+    .navbar-brand img {
+        width: 60px !important;
+    }
+    .gap_55{
+        gap: 30px;
+    }
+    .m_mb_50{
+        margin-bottom: 45px !important;
+    }
+    .title img{
+        width: 60%;
+    }
+    .vibe{
+        width: 100% !important;
+    }
+    nav ul li a{
+        font-size: 10px;
+        font-weight: 400;
+        font-family: 'Titan One', cursive;
+        color: #CBCBCB !important;
+        padding: 0 15px !important;
+    }
+    #grew .grew_content img{
+        margin-left: -20px;
+    }
+    .logo_content ul li a{
+        width: 20px;
+    }
+    .logo_content ul li a img{
+        width: 100%;
+    }
+    .banner_img .txt {
+        margin-bottom: -41px;
+    }
+    .banner_img .cOne{
+        bottom: -60px;
+        left: 32%;
+        width: 250px !important;
+    }
+    .banner_img .cTwo{
+        bottom: 60px;
+        right: -4%;
+        width: 80px !important;
+    }
+    .banner_img .cThree{
+        top: -78px;
+        left: 3%;
+        width: 120px !important;
+    }
+    .banner_img .cThree .charectar {
+        width: 140px !important;
+    }
+    .banner_img .cFour{
+        top: -86px;
+        left: 60%;
+        width: 100px !important;
+    }
+    .banner_img .cOne .smoke_gif{
+        top: -27px !important;
+        left: 65%;
+        width: 70px !important;
+    }
+    .banner_img .cTwo .smoke_gif{
+        top: 1px;
+        right: -54px;  
+    }
+    .banner_img .cThree .smoke_gif{
+        top: -13px;
+        left: 60px;    
+    }
+    .banner_img .cFour .smoke_gif{
+    top: -8px;
+    left: 70%;
+    }  
+    #random{
+        padding-top: 105px;
+    }
+    #mission {
+        padding-top: 90px;
+    }
+    #mission .mission_content ul li{
+        padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
+        list-style: inside disc;
+        font-size: 14px !important;
+    }
+    #faq .title .col-5 img{
+        padding-left: 50px;
+        box-sizing:content-box;
+    }
+    footer .footer_menu ul li a{
+        font-size: 13px;
+    }
+    #faq .faq_content ul li{
+        font-size: 14px;
+    }
+
+    #why_tf{
+        margin-bottom: -50px;
+    }
+    #collection {
+        padding-top: 91px;
+        margin-bottom: -60px;
+    }
+    #journey {
+        margin-bottom: -105px;
+    }
+    .w_vibe_50{
+        width: 50px !important;
+    }
+    .w_40_f{
+        width: 40% !important;
+    }
+}
+/* =================================================
+                    large devices
+==================================================== */
+
+@media (min-width:992px) and (max-width:1199px){
+    body{
+        overflow-x: hidden;
+    }
+    p{
+        font-size: 14px !important;
+    }
+    .gap_55{
+        gap: 30px;
+    }
+    .m_mb_50{
+        margin-bottom: 45px !important;
+    }
+    .title img{
+        width: 65%;
+    }
+    .vibe{
+        width: 100% !important;
+    }
+    nav ul li a{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Titan One', cursive;
+        color: #CBCBCB !important;
+        padding: 0 18px !important;
+    }
+    #grew .grew_content img{
+        margin-left: -20px;
+    }
+    .logo_content ul li a{
+        width: 20px;
+    }
+    .logo_content ul li a img{
+        width: 100%;
+    }
+    .banner_img .txt {
+        margin-bottom: -61px;
+    }
+    .banner_img .cOne{
+        bottom: -60px;
+        left: 30%;
+        width: 302px !important;
+    }
+    .banner_img .cTwo{
+        top: 34px !important;
+        right: -6%;
+        width: 114px !important;
+    }
+    .banner_img .cThree{
+        top: -108px;
+        left: 2%;
+        width: 188px !important;
+    }
+    .banner_img .cFour{
+        top: -104px;
+        left: 59%;
+        width: 129px !important;
+    }
+
+      .banner_img .cOne .smoke_gif{
+        top: -16px !important;
+        left: 65%;
+        width: 70px !important;
+    }
+    .banner_img .cTwo .smoke_gif{
+        top: 31px;
+        right: -41px;
+    }
+    .banner_img .cThree .smoke_gif{
+        top: 5px;
+        left: 84px;
+    }
+    .banner_img .cFour .smoke_gif{
+    top: 8px;
+    left: 70%;
+    }  
+    #collection {
+        padding-top: 91px;
+    }
+    #random{
+        padding-top: 100px;
+    }
+    #faq .title .col-5 img{
+        padding-left: 50px;
+        box-sizing:content-box;
+        width: 40%;
+    }
+    #journey {
+        margin-bottom: -90px;
+    }
+    #faq .faq_content ul li{
+        font-size: 14px;
+    }
+    .w_50{
+        width: 50% !important;
+    }
+    .w_70{
+        width: 75% !important;
+    }
+    #mission .mission_content ul li{
+        font-size: 14px;
+    }
+    .w_40_f{
+        width: 40% !important;
+    }
+}
+@media (min-width:1200px) and (max-width:1399px){
+    body{
+        overflow-x: hidden;
+    }
+    .gap_55{
+        gap: 30px;
+    }
+    .m_mb_50{
+        margin-bottom: 45px !important;
+    }
+    .title img{
+        width: 60%;
+    }
+    .vibe{
+        width: 100% !important;
+    }
+    nav ul li a{
+        font-size: 14px;
+        font-weight: 400;
+        font-family: 'Titan One', cursive;
+        color: #CBCBCB !important;
+        padding: 0 20px !important;
+    }
+    #grew .grew_content img{
+        margin-left: -20px;
+    }
+    .logo_content ul li a{
+        width: 20px;
+    }
+    .logo_content ul li a img{
+        width: 100%;
+    }
+    .banner_img .cOne{
+        bottom: -70px;
+        left: 40%;
+        width: 302px !important;
+    }
+    .banner_img .cTwo{
+        bottom: 60px;
+        right: -5%;
+        width: 114px !important;
+    }
+    .banner_img .cThree{
+        top: -88px;
+        left: 4%;
+        width: 188px !important;
+    }
+    .banner_img .cFour{
+        top: -73px;
+        left: 61%;
+        width: 129px !important;
+    }
+    .banner_img .cOne .smoke_gif{
+        top: -17px !important;
+        left: 65%;
+        width: 70px !important;
+    }
+    .banner_img .cTwo .smoke_gif{
+    top: 37px;
+    right: -49px;    
+    }
+    .banner_img .cThree .smoke_gif{
+        top: 5px;
+        left: 84px;
+    }
+    .banner_img .cFour .smoke_gif{
+    top: 8px;
+    left: 70%;
+    }   
+    #faq .title .col-5 img {
+        padding-left: 98px;
+    }
+    #journey {
+        margin-bottom: -80px;
+    }
+    #collection {
+        padding-top: 80px;
+    }
+    .w_70{
+        width: 75% !important;
+    }
+    .w_50{
+        width: 50% !important;
+    }
+    .w_40_f{
+        width: 40% !important;
+    }
+}
